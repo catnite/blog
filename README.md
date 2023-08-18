@@ -1,5 +1,5 @@
 # blog
-thx to my dear friend helping me finished this blog , it can't be done withour u .
+thx to my dear friend helping me finished this blog , it can't be done without u .
 loving you~
 
-this a easy blog by Django.
+this's a easy project by Django2.0.
